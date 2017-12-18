@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>zdrobich</sys_created_by>
+        <sys_created_on>2017-12-18 14:03:48</sys_created_on>
+        <sys_id>ee14cf2adbc7c300b57f5845dc961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_int3443966_my_configuration_table.x_snc_int3443966.my_configuration_table_user</sys_name>
+        <sys_package display_value="INT3443966" source="x_snc_int3443966">89f38b2adbc7c300b57f5845dc9619c4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="INT3443966">89f38b2adbc7c300b57f5845dc9619c4</sys_scope>
+        <sys_security_acl display_value="x_snc_int3443966_my_configuration_table">e614cf2adbc7c300b57f5845dc961922</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ee14cf2adbc7c300b57f5845dc961924</sys_update_name>
+        <sys_updated_by>zdrobich</sys_updated_by>
+        <sys_updated_on>2017-12-18 14:03:48</sys_updated_on>
+        <sys_user_role display_value="x_snc_int3443966.my_configuration_table_user" name="x_snc_int3443966.my_configuration_table_user">ae144f2adbc7c300b57f5845dc96193b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="My configuration table" max_length="40" name="x_snc_int3443966_my_configuration_table" type="collection"/>
+</database>
